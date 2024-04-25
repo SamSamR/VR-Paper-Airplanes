@@ -8,12 +8,12 @@ Currently works for Oculus but there is a build for PC headsets but is currently
 
 
 ## How to set up:
-First, go to my developer portfolio & click the demo button for this project.
+First, go to the MyBuilds folder of this project.
 
 For APK:
-Download the apk build file from google drive.
+Download the apk build file.
 Then upload it to your headset.
 
 For PC:
-Download & unzip the PC build file from google drive.
-Then connect your headet to your PC, then run the application.
+Download & unzip the PC build file.
+Then connect your headet to your PC, & run the application.
